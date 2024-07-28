@@ -1,0 +1,11 @@
+1- Um capacitor e um objeto formado por dois condutores proximos com sinais contrarios, ja capacitancia e determinada
+diretamente proporcionalmente com o capacitor e sua ddp, basicamente sendo sua unidade de grandeza.
+2- resistencia paralela, ressitencia serie equivalente, corrente de fuga
+3-d
+4- capacidade do capacitor e tolerancia
+5- não pois os terminais dos capacitores sao polarizados entre si.
+6-
+7- T=5*R*C
+   T=5x10x100=5000
+   T=5000
+
